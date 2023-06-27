@@ -1,0 +1,26 @@
+{
+  "colors" : [
+    {
+      "filename" : "pec.png",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "pec.png",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "pec.png",
+      "idiom" : "watch"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
